@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Full Automation of Jenkins CICD pipiline '
+    return 'Full Automation of Jenkins CICD pipiline, argocd + AKS, Docker, git+github '
